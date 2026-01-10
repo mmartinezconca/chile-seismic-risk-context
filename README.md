@@ -1,5 +1,6 @@
 # Chile — Seismic Risk Map (QGIS GIS Workflow)
 
+## Tools and Skills
 A practical **GIS mapping workflow** that integrates seismic hazard zones with developed land-use layers to support **field planning, risk communication, and geotechnical/environmental insight**.
 
 ---
@@ -22,7 +23,9 @@ A practical **GIS mapping workflow** that integrates seismic hazard zones with d
 
 ---
 
-## Portfolio framing
+## Key Outcomes
+- High-resolution seismic risk maps for Chile
+
 This project is intentionally scoped as a **skill-building, applied GIS product** to demonstrate field-services readiness and geospatial execution workflows used in consulting environments.
 
 ---
