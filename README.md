@@ -5,6 +5,9 @@ This project maps earthquake activity in Chile from 2004-2024 and places it in c
 
 ---
 
+![Seismic risk context map of Chile](figures/chile_seismic_context_map.png)
+*Seismic hazard and risk context in Chile (2004–2024).*
+
 ## What This Shows
 - Earhquakes (M 4.0-8.8) visualized by magnitude
 - Kernel Density Estimation (KDE) of earthquake occurrence, shown as percentiles
