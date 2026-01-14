@@ -4,6 +4,11 @@
 
 ![Seismic risk context map of Chile](figures/chile_seismic_context_map.png)
 
+[Download full-resolution map (PDF)](figures/chile_seismic_context_map_github.pdf)
+
+*Optimized for web viewing; original high-resolution file available upon request.*
+
+
 
 
 
